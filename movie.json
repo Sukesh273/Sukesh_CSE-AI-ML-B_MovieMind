@@ -1,0 +1,162 @@
+[{
+    "name": "The Boys",
+    "imdb": 9.3,
+    "date": "2022",
+    "sposter": "img/the boys.jpg",
+    "bposter": "img/the boys1.jpg",
+    "genre": "Action",
+    "type": "series",
+    "url": "the boys.html",
+    "trailer": "video/The Boys.mp4"
+}, {
+    "name": "Money Heist",
+    "imdb": 9.9,
+    "date": "2020",
+    "sposter": "img/money heist.jpg",
+    "bposter": "img/money heist1.jpg",
+    "genre": "Action",
+    "type": "series",
+    "url": "money heist.html",
+    "trailer": "money heist trailer.mp4"
+}, {
+    "name": "John Wick",
+    "imdb": 9.8,
+    "date": "2022",
+    "sposter": "img/Jhon Wick.jpg",
+    "bposter": "img/jhon wick1.webp",
+    "genre": "Action",
+    "type": "movie",
+    "url": "jhon wick.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Ant Man",
+    "imdb": 8.9,
+    "date": "2017",
+    "sposter": "img/ant man.jpg",
+    "bposter": "img/ant man1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "ant man.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Avengers",
+    "imdb": 9.9,
+    "date": "2012",
+    "sposter": "img/avengers.jpg",
+    "bposter": "img/avengers1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "avengers.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Moon Knight",
+    "imdb": 7.3,
+    "date": "2022",
+    "sposter": "img/moon knight.jpg",
+    "bposter": "img/moon knight1.webp",
+    "genre": "Action",
+    "type": "series",
+    "url": "moon knight.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Kota Factory",
+    "imdb": 9.6,
+    "date": "2020",
+    "sposter": "img/kota factory.jpg",
+    "bposter": "img/kota factory1.webp",
+    "genre": "Sci-Fi",
+    "type": "series",
+    "url": "kota factory.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Collage Romance",
+    "imdb": 7.9,
+    "date": "2021",
+    "sposter": "img/collage romance.jpg",
+    "bposter": "img/collage romance1.jpg",
+    "genre": "Romance",
+    "type": "series",
+    "url": "collage romance.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Thor Love Of Thunder",
+    "imdb": 8.8,
+    "date": "2022",
+    "sposter": "img/thor love of thunder.jpg",
+    "bposter": "img/thor love of thunder1.avif",
+    "genre": "Action, Romance",
+    "type": "movie",
+    "url": "thor love of thunder.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Uncharted",
+    "imdb": 9.8,
+    "date": "2022",
+    "sposter": "img/uncharted.webp",
+    "bposter": "img/uncharted1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "uncharted.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Eesho",
+    "imdb": 8.2,
+    "date": "2022",
+    "sposter": "img/eesho.jpeg",
+    "bposter": "img/eesho1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "eesho.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Top Gun",
+    "imdb": 8.0,
+    "date": "2022",
+    "sposter": "img/topgun.jpg",
+    "bposter": "img/topgun1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "topgun.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Jurassic World",
+    "imdb": 8.0,
+    "date": "2022",
+    "sposter": "img/jurassic world.jpg",
+    "bposter": "img/jurassic world1.jpg",
+    "genre": "Action, Fantasy",
+    "type": "movie",
+    "url": "jurassic world.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Eternals",
+    "imdb": 9.0,
+    "date": "2022",
+    "sposter": "img/eternals.jpg",
+    "bposter": "img/eternals1.webp",
+    "genre": "Action",
+    "type": "movie",
+    "url": "eternals.html",
+    "trailer": "john wick trailer.mp4"
+}, {
+    "name": "Spider Man",
+    "imdb": 9.9,
+    "date": "2020",
+    "sposter": "img/spiderman.jpg",
+    "bposter": "img/spiderman1.jpg",
+    "genre": "Action, Romance",
+    "type": "movie",
+    "url": "spiderman.html",
+    "trailer": "video/SPIDER-MAN.mp4"
+},{
+    "name": "Moana",
+    "imdb": 9.8,
+    "date": "2020",
+    "sposter": "img/moana.jpeg",
+    "bposter": "img/moana1.jpeg",
+    "genre": "Comedy",
+    "type": "kid",
+    "url": "moana.html",
+    "trailer": "video/Moana.mp4"
+}]
+
